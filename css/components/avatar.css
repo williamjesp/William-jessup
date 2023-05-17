@@ -1,0 +1,8 @@
+.avatar{
+	width: 270px;
+	height: 170px;
+	border-bottom-left-radius: 35%;
+	border-bottom-right-radius: 35%;
+	border-top-left-radius: 35%;
+	border-top-right-radius: 35%;
+}
